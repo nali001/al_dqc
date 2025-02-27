@@ -1,0 +1,39 @@
+------ 4903218 -------
+(100, 'XGBoost')
+F1-score: 0.9294 Stable point: 295; 0.9227
+(200, 'XGBoost')
+F1-score: 0.7323 Stable point: 297; 0.7286
+(300, 'XGBoost')
+F1-score: 0.665 Stable point: 300; 0.665
+(400, 'XGBoost')
+F1-score: 0.8492 Stable point: 243; 0.8401
+
+------ 4903220 -------
+(100, 'XGBoost')
+F1-score: 0.1756 Stable point: 6; 0.1723
+(200, 'XGBoost')
+F1-score: 0.3511 Stable point: 14; 0.3548
+(300, 'XGBoost')
+F1-score: 0.3486 Stable point: 45; 0.3548
+(400, 'XGBoost')
+F1-score: 0.3536 Stable point: 4; 0.3465
+
+------ 4903052 -------
+(100, 'XGBoost')
+F1-score: 0.6139 Stable point: 146; 0.6075
+(200, 'XGBoost')
+F1-score: 0.6104 Stable point: 85; 0.6065
+(300, 'XGBoost')
+F1-score: 0.6476 Stable point: 89; 0.6444
+(400, 'XGBoost')
+F1-score: 0.6818 Stable point: 69; 0.68
+
+------ 4903054 -------
+(100, 'XGBoost')
+F1-score: 0.0 Stable point: 300; 0.0
+(200, 'XGBoost')
+F1-score: 0.0 Stable point: 300; 0.0
+(300, 'XGBoost')
+F1-score: 0.1683 Stable point: 44; 0.1603
+(400, 'XGBoost')
+F1-score: 0.3112 Stable point: 96; 0.3044

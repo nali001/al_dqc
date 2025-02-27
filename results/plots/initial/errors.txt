@@ -1,0 +1,125 @@
+------ Float: 4903217 Random seed: 84 ------
+random split: 0.3372 errors, 100 initial samples, 30 anomalies.
+random split: 0.3372 errors, 200 initial samples, 72 anomalies.
+random split: 0.3372 errors, 300 initial samples, 101 anomalies.
+random split: 0.3372 errors, 400 initial samples, 131 anomalies.
+------ Float: 4903218 Random seed: 84 ------
+random split: 0.0084 errors, 100 initial samples, 0 anomalies.
+random split: 0.0084 errors, 200 initial samples, 3 anomalies.
+random split: 0.0084 errors, 300 initial samples, 4 anomalies.
+random split: 0.0084 errors, 400 initial samples, 5 anomalies.
+------ Float: 4903220 Random seed: 84 ------
+random split: 0.0016 errors, 100 initial samples, 1 anomalies.
+random split: 0.0016 errors, 200 initial samples, 1 anomalies.
+random split: 0.0016 errors, 300 initial samples, 1 anomalies.
+random split: 0.0016 errors, 400 initial samples, 1 anomalies.
+------ Float: 4903052 Random seed: 84 ------
+random split: 0.0069 errors, 100 initial samples, 0 anomalies.
+random split: 0.0069 errors, 200 initial samples, 2 anomalies.
+random split: 0.0069 errors, 300 initial samples, 2 anomalies.
+random split: 0.0069 errors, 400 initial samples, 2 anomalies.
+------ Float: 4903054 Random seed: 84 ------
+random split: 0.0023 errors, 100 initial samples, 0 anomalies.
+random split: 0.0023 errors, 200 initial samples, 0 anomalies.
+random split: 0.0023 errors, 300 initial samples, 1 anomalies.
+random split: 0.0023 errors, 400 initial samples, 3 anomalies.
+------ Float: 4903217 Random seed: 65 ------
+random split: 0.3372 errors, 100 initial samples, 29 anomalies.
+random split: 0.3372 errors, 200 initial samples, 61 anomalies.
+random split: 0.3372 errors, 300 initial samples, 99 anomalies.
+random split: 0.3372 errors, 400 initial samples, 133 anomalies.
+------ Float: 4903218 Random seed: 65 ------
+random split: 0.0084 errors, 100 initial samples, 1 anomalies.
+random split: 0.0084 errors, 200 initial samples, 1 anomalies.
+random split: 0.0084 errors, 300 initial samples, 4 anomalies.
+random split: 0.0084 errors, 400 initial samples, 4 anomalies.
+------ Float: 4903220 Random seed: 65 ------
+random split: 0.0016 errors, 100 initial samples, 0 anomalies.
+random split: 0.0016 errors, 200 initial samples, 0 anomalies.
+random split: 0.0016 errors, 300 initial samples, 0 anomalies.
+random split: 0.0016 errors, 400 initial samples, 0 anomalies.
+------ Float: 4903052 Random seed: 65 ------
+random split: 0.0069 errors, 100 initial samples, 3 anomalies.
+random split: 0.0069 errors, 200 initial samples, 4 anomalies.
+random split: 0.0069 errors, 300 initial samples, 4 anomalies.
+random split: 0.0069 errors, 400 initial samples, 4 anomalies.
+------ Float: 4903054 Random seed: 65 ------
+random split: 0.0023 errors, 100 initial samples, 0 anomalies.
+random split: 0.0023 errors, 200 initial samples, 0 anomalies.
+random split: 0.0023 errors, 300 initial samples, 1 anomalies.
+random split: 0.0023 errors, 400 initial samples, 1 anomalies.
+------ Float: 4903217 Random seed: 34 ------
+random split: 0.3372 errors, 100 initial samples, 36 anomalies.
+random split: 0.3372 errors, 200 initial samples, 73 anomalies.
+random split: 0.3372 errors, 300 initial samples, 108 anomalies.
+random split: 0.3372 errors, 400 initial samples, 143 anomalies.
+------ Float: 4903218 Random seed: 34 ------
+random split: 0.0084 errors, 100 initial samples, 2 anomalies.
+random split: 0.0084 errors, 200 initial samples, 6 anomalies.
+random split: 0.0084 errors, 300 initial samples, 6 anomalies.
+random split: 0.0084 errors, 400 initial samples, 6 anomalies.
+------ Float: 4903220 Random seed: 34 ------
+random split: 0.0016 errors, 100 initial samples, 0 anomalies.
+random split: 0.0016 errors, 200 initial samples, 1 anomalies.
+random split: 0.0016 errors, 300 initial samples, 1 anomalies.
+random split: 0.0016 errors, 400 initial samples, 2 anomalies.
+------ Float: 4903052 Random seed: 34 ------
+random split: 0.0069 errors, 100 initial samples, 2 anomalies.
+random split: 0.0069 errors, 200 initial samples, 3 anomalies.
+random split: 0.0069 errors, 300 initial samples, 5 anomalies.
+random split: 0.0069 errors, 400 initial samples, 5 anomalies.
+------ Float: 4903054 Random seed: 34 ------
+random split: 0.0023 errors, 100 initial samples, 0 anomalies.
+random split: 0.0023 errors, 200 initial samples, 0 anomalies.
+random split: 0.0023 errors, 300 initial samples, 0 anomalies.
+random split: 0.0023 errors, 400 initial samples, 0 anomalies.
+------ Float: 4903217 Random seed: 25 ------
+random split: 0.3372 errors, 100 initial samples, 29 anomalies.
+random split: 0.3372 errors, 200 initial samples, 65 anomalies.
+random split: 0.3372 errors, 300 initial samples, 98 anomalies.
+random split: 0.3372 errors, 400 initial samples, 132 anomalies.
+------ Float: 4903218 Random seed: 25 ------
+random split: 0.0084 errors, 100 initial samples, 0 anomalies.
+random split: 0.0084 errors, 200 initial samples, 0 anomalies.
+random split: 0.0084 errors, 300 initial samples, 0 anomalies.
+random split: 0.0084 errors, 400 initial samples, 2 anomalies.
+------ Float: 4903220 Random seed: 25 ------
+random split: 0.0016 errors, 100 initial samples, 0 anomalies.
+random split: 0.0016 errors, 200 initial samples, 0 anomalies.
+random split: 0.0016 errors, 300 initial samples, 0 anomalies.
+random split: 0.0016 errors, 400 initial samples, 0 anomalies.
+------ Float: 4903052 Random seed: 25 ------
+random split: 0.0069 errors, 100 initial samples, 0 anomalies.
+random split: 0.0069 errors, 200 initial samples, 1 anomalies.
+random split: 0.0069 errors, 300 initial samples, 1 anomalies.
+random split: 0.0069 errors, 400 initial samples, 2 anomalies.
+------ Float: 4903054 Random seed: 25 ------
+random split: 0.0023 errors, 100 initial samples, 0 anomalies.
+random split: 0.0023 errors, 200 initial samples, 0 anomalies.
+random split: 0.0023 errors, 300 initial samples, 0 anomalies.
+random split: 0.0023 errors, 400 initial samples, 1 anomalies.
+------ Float: 4903217 Random seed: 3 ------
+random split: 0.3372 errors, 100 initial samples, 23 anomalies.
+random split: 0.3372 errors, 200 initial samples, 57 anomalies.
+random split: 0.3372 errors, 300 initial samples, 85 anomalies.
+random split: 0.3372 errors, 400 initial samples, 123 anomalies.
+------ Float: 4903218 Random seed: 3 ------
+random split: 0.0084 errors, 100 initial samples, 0 anomalies.
+random split: 0.0084 errors, 200 initial samples, 0 anomalies.
+random split: 0.0084 errors, 300 initial samples, 1 anomalies.
+random split: 0.0084 errors, 400 initial samples, 3 anomalies.
+------ Float: 4903220 Random seed: 3 ------
+random split: 0.0016 errors, 100 initial samples, 0 anomalies.
+random split: 0.0016 errors, 200 initial samples, 0 anomalies.
+random split: 0.0016 errors, 300 initial samples, 0 anomalies.
+random split: 0.0016 errors, 400 initial samples, 0 anomalies.
+------ Float: 4903052 Random seed: 3 ------
+random split: 0.0069 errors, 100 initial samples, 2 anomalies.
+random split: 0.0069 errors, 200 initial samples, 3 anomalies.
+random split: 0.0069 errors, 300 initial samples, 5 anomalies.
+random split: 0.0069 errors, 400 initial samples, 5 anomalies.
+------ Float: 4903054 Random seed: 3 ------
+random split: 0.0023 errors, 100 initial samples, 0 anomalies.
+random split: 0.0023 errors, 200 initial samples, 0 anomalies.
+random split: 0.0023 errors, 300 initial samples, 0 anomalies.
+random split: 0.0023 errors, 400 initial samples, 0 anomalies.
